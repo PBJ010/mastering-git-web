@@ -27,6 +27,6 @@ iOS디바이스를 이용합니다.
 
 ## 링크
 
-.[서강대학교 바로가기].(https://sogang.ac.kr/)
+[서강대학교 바로가기](https://sogang.ac.kr/)
 ---
 Contact: pbj010@sogang.ac.kr
