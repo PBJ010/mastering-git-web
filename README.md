@@ -1,5 +1,32 @@
-# mastering-git-web
+# 관상가앱
 
-This repository houses a proposed website for the Mastering Git book.
+## 소속
 
-Contact: mwkoo@sogang.ac.kr
+서강대학교 2021학년도 봄학기 컴퓨터공학과 캡스톤디자인1 수업 프로젝트입니다.
+
+## 도구
+
+pycharm, xcode를 사용합니다.
+iOS디바이스를 이용합니다.
+
+## 홍보 및 디자인
+
+> **내가 왕이 될 상인가**
+> 
+> *영화 관상에서, 이정재*
+ 
+사람들에게 친숙한 영화 관상의 느낌을 살려 앱을 디자인할 계획입니다.
+
+## 해야 할 일
+---
+앱 개발하기
+
+- [x] 팀원 모집하기 
+- [ ] 아이디어 나누기
+- [ ] 역할 정하기
+
+## 링크
+
+.[서강대학교 바로가기].(https://sogang.ac.kr/)
+---
+Contact: pbj010@sogang.ac.kr
